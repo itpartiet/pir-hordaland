@@ -1,7 +1,6 @@
 Referat fra styremøte i Hordaland Piratparti 2017-05-18
 
-Oppmøtte: Øyvind A. Holm, Ståle Olsen,  Ørjan Langbakk, Olav Handeland 
-(noen minutter på telefon)
+Oppmøtte: Øyvind A. Holm, Ståle Olsen,  Ørjan Langbakk, Olav Handeland (noen minutter på telefon)
 Sted: Espresso House, Bystasjonen
 Møtet er vedtaksdyktig, 3/4 oppmøtte.
 
@@ -11,6 +10,7 @@ Referent: Øyvind
 
 Saksliste:
 
+<pre>
 1. Godkjenning av innkalling
 2. Eventuelt
   2.1. Angående offentlige styremøter
@@ -25,6 +25,7 @@ Saksliste:
     2.5.2. Forslag til styresammensetning
     2.5.3. Valgbod
     2.5.4. Om breddeprogram
+</pre>
 
 1. GODKJENNING AV INNKALLING
 
@@ -36,177 +37,93 @@ Disse sakene ble tatt opp:
 
 2.1. ANGÅENDE OFFENTLIGE STYREMØTER
 
-Øyvind: Vil ha det så åpent som mulig, Foreslår Mumble, med et eget fast 
-rom der møtene holdes. Det skal heller ikke være noe i veien for at 
-anonyme personer dukker innom for å høre på, det er jo ingen fraksjoner 
-ute og går lengre.
-Ørjan: Det kan ikke være fullstendig åpenhet i tilfelle 
-personsensitivitet.
-Ståle: Både og. Noen må være åpne, noen må være lukket. Annethvert, 
-kanskje?
+Øyvind: Vil ha det så åpent som mulig, Foreslår Mumble, med et eget fast rom der møtene holdes. Det skal heller ikke være noe i veien for at anonyme personer dukker innom for å høre på, det er jo ingen fraksjoner ute og går lengre.
+Ørjan: Det kan ikke være fullstendig åpenhet i tilfelle personsensitivitet.
+Ståle: Både og. Noen må være åpne, noen må være lukket. Annethvert, kanskje?
 
-Alle er selvfølgelig enige i at det må mutes når personsensitive ting 
-diskuteres, for eksempel når det gjelder personalsaker. Helst bør et 
-uavhengig møte holdes (eller man tar dette i et lukket forum, med kun 
-styremedlemmer tilstede) der disse sensitive tingene diskuteres.
+Alle er selvfølgelig enige i at det må mutes når personsensitive ting diskuteres, for eksempel når det gjelder personalsaker. Helst bør et uavhengig møte holdes (eller man tar dette i et lukket forum, med kun styremedlemmer tilstede) der disse sensitive tingene diskuteres.
 
 2.2. MØTEFORM, DIGITALT VS FYSISK OPPMØTE
 
 Ståle: Vil ha fysiske møter der folk møter opp i et lokale.
-Øyvind: Vil ha det så distribuert som mulig, det bør oppmuntres til at 
-digital (voice via mobil) deltakelse går an. Er enig i at det er 
-trivelig og praktisk med personlig oppmøte, men det må ikke være et 
-krav. Fysisk oppmøte bør dog gjennomføres så ofte som mulig, og lokale 
-bør være tilgjengelig for de som kan møte opp. Møtene blir mer 
-effektive, spesielt hvis lokalet inneholder ting som f.eks. projektor.
-Ørjan: Ønsker at man i alle fall har (som et minimum) ett fysisk møte 
-pr. måned.
+Øyvind: Vil ha det så distribuert som mulig, det bør oppmuntres til at digital (voice via mobil) deltakelse går an. Er enig i at det er trivelig og praktisk med personlig oppmøte, men det må ikke være et krav. Fysisk oppmøte bør dog gjennomføres så ofte som mulig, og lokale bør være tilgjengelig for de som kan møte opp. Møtene blir mer effektive, spesielt hvis lokalet inneholder ting som f.eks. projektor.
+Ørjan: Ønsker at man i alle fall har (som et minimum) ett fysisk møte pr. måned.
 Øyvind: Ja, det høres fint ut.
 Ståle: Det er en god tanke.
 Ståle: Hovedregelen bør være at det er fysisk oppmøte.
-Øyvind: Enig, men det bør være mulighet for å delta digitalt på alle 
-møter i tilfelle det blir vanskelig å forflytte seg fysisk dit.
+Øyvind: Enig, men det bør være mulighet for å delta digitalt på alle møter i tilfelle det blir vanskelig å forflytte seg fysisk dit.
 
 2.3. VALGKAMPEN
 
 2.3.1. VALGKAMPSTART
 
-Det er enighet om at vi egentlig ikke er så «tidlig ute» som det står i 
-EOÅM-innkallingen, de fleste partier er i full gang allerede. Valgkampen 
-må startes ASAP. Kontakt PIR sentralt om tilsendelse av materiell. Olav 
-har kontroll på rollupen og flagget, det ligger ute på Lehmkuhl.
+Det er enighet om at vi egentlig ikke er så «tidlig ute» som det står i EOÅM-innkallingen, de fleste partier er i full gang allerede. Valgkampen må startes ASAP. Kontakt PIR sentralt om tilsendelse av materiell. Olav har kontroll på rollupen og flagget, det ligger ute på Lehmkuhl.
 
 2.3.2. SOSIALE MEDIER
 
-Ståle nevner mediaansvarlig, han synes ikke det er nødvendig, alle i 
-styret kan delta. Øyvind er enig, Ørjan mener det er greit enn så lenge. 
-Ståle sier at alle må på kort varsel være klare til å retweete eller 
-kommentere på sosiale medier hvis det plutselig skjer noe. Hver eneste 
-gang det postes noe som anses å være viktig, må det postes på alle 
-medier.
+Ståle nevner mediaansvarlig, han synes ikke det er nødvendig, alle i styret kan delta. Øyvind er enig, Ørjan mener det er greit enn så lenge. Ståle sier at alle må på kort varsel være klare til å retweete eller kommentere på sosiale medier hvis det plutselig skjer noe. Hver eneste gang det postes noe som anses å være viktig, må det postes på alle medier.
 
-Ørjan: Siden man ikke får med alle ting som deles, kan det være fint med 
-en sentral liste over ting som deles. Denne listen må være offentlig.
+Ørjan: Siden man ikke får med alle ting som deles, kan det være fint med en sentral liste over ting som deles. Denne listen må være offentlig.
 
-Ørjan opprettet #sosiale_media_linker under 
-piratpartiethordaland.slack.com som et eksperiment.
+Ørjan opprettet #sosiale_media_linker under piratpartiethordaland.slack.com som et eksperiment.
 
 Ståle: Hordaland har en Twitterkonto, men den er ikke mye i bruk
 
-Ørjan: Hvor er det lettest å lage en sånn liste? Kan den settes opp til 
-varslinger ved endringer?
+Ørjan: Hvor er det lettest å lage en sånn liste? Kan den settes opp til varslinger ved endringer?
 
-Øyvind: Wikien, rett og slett? Hordaland-siden har allerede seksjonen 
-«Hordaland Piratparti i media», der det pressen skriver listes opp. Det 
-kan lages en seksjon over postinger som er gjort, både som vi kan 
-referere til, og folk ser at PIR faktisk er aktive og mener ting 
-offentlig.
+Øyvind: Wikien, rett og slett? Hordaland-siden har allerede seksjonen «Hordaland Piratparti i media», der det pressen skriver listes opp. Det kan lages en seksjon over postinger som er gjort, både som vi kan referere til, og folk ser at PIR faktisk er aktive og mener ting offentlig.
 
 Ørjan (og Ståle): Wiki er generelt sett for komplisert.
 
-Ståle: Det er viktig å vise aktivitet. Det er viktig å ikke bare bruke 
-én plattform innen sosiale medier, men bruke alle sammen.
+Ståle: Det er viktig å vise aktivitet. Det er viktig å ikke bare bruke én plattform innen sosiale medier, men bruke alle sammen.
 
-Øyvind: Kanskje det kan settes opp en 
-aktiv.hordaland@piratpartpartiet.no-liste som er en mellomting mellom 
-styret.hordaland og alle.hordaland. De som er med der har ikke noe i mot 
-litt ekstra mail, men gjerne vil ha info og diskusjoner om HordPIR i 
-mailboksen.
+Øyvind: Kanskje det kan settes opp en aktiv.hordaland@piratpartpartiet.no-liste som er en mellomting mellom styret.hordaland og alle.hordaland. De som er med der har ikke noe i mot litt ekstra mail, men gjerne vil ha info og diskusjoner om HordPIR i mailboksen.
 
-Ørjan tegner og forteller litt om Slack. Det kan diskuteres der, og 
-filer kan sendes i chatten.
+Ørjan tegner og forteller litt om Slack. Det kan diskuteres der, og filer kan sendes i chatten.
 
-Øyvind er skeptisk til Slack fordi de er en sentral tjeneste som i den 
-siste tiden har vist tendenser på å gå mot mer lukkede løsninger, og 
-spørsmål omkring dette ikke blir besvart fra Slack sentralt. Foreslår 
-Gitter, hvis det er så påkreved med chat på web. Den er opensource på 
-alle fronter, og er oppkjøpt av Gitlab. Men har ingen sterke synspunkter 
-foreløpig. Øyvind registrerer faktisk sunny256 under møtet og liker det 
-han ser, og er blitt ganske så tjomslig med Slackbot.
+Øyvind er skeptisk til Slack fordi de er en sentral tjeneste som i den siste tiden har vist tendenser på å gå mot mer lukkede løsninger, og spørsmål omkring dette ikke blir besvart fra Slack sentralt. Foreslår Gitter, hvis det er så påkreved med chat på web. Den er opensource på alle fronter, og er oppkjøpt av Gitlab. Men har ingen sterke synspunkter foreløpig. Øyvind registrerer faktisk sunny256 under møtet og liker det han ser, og er blitt ganske så tjomslig med Slackbot.
 
-Ørjan påpeker at PIR Hordaland bør skrives som «PIR Hordaland», ikke 
-«Hordaland PIR». Partinavnet må komme først, deretter avdelingen av 
-partiet, «Hordaland». Ståle og Øyvind er enige og innretter seg 
-deretter.
+Ørjan påpeker at PIR Hordaland bør skrives som «PIR Hordaland», ikke «Hordaland PIR». Partinavnet må komme først, deretter avdelingen av partiet, «Hordaland». Ståle og Øyvind er enige og innretter seg deretter.
 
 2.3.3. STEMMESEDLER
 
-Øyvind synes det er bortkastet og lite miljøvennlig med stemmesedler. 
-Det er ingen kjente navn på listen, så det har liten promotiv effekt. 
-Ørjan er enig. På den annen siden betales det ikke for dem, så han tar 
-det ikke så tungt. Ståle vil at vi skal bestille max antall stemmesedler 
-som kan deles ut i en eventuell valgbod og lignende. Det er ingen som 
-støtter at de skal legges i postkassene til folk.
+Øyvind synes det er bortkastet og lite miljøvennlig med stemmesedler. Det er ingen kjente navn på listen, så det har liten promotiv effekt. Ørjan er enig. På den annen siden betales det ikke for dem, så han tar det ikke så tungt. Ståle vil at vi skal bestille max antall stemmesedler som kan deles ut i en eventuell valgbod og lignende. Det er ingen som støtter at de skal legges i postkassene til folk.
 
-Når det gjelder kontakt med myndighetene om stemmesedlene, kontaktet 
-Øyvind Hordaland Fylkeskommune for en ukes tid siden og sa at PIR vil ha 
-max antall, men det er ikke sendt ut brev til partiene om stemmesedler 
-derfra enda.
+Når det gjelder kontakt med myndighetene om stemmesedlene, kontaktet Øyvind Hordaland Fylkeskommune for en ukes tid siden og sa at PIR vil ha max antall, men det er ikke sendt ut brev til partiene om stemmesedler derfra enda.
 
-Øyvind tar kontakt i morgen og purrer. PIR Hordaland kommer til å 
-bestille max antall stemmesedler, 10 000.
+Øyvind tar kontakt i morgen og purrer. PIR Hordaland kommer til å bestille max antall stemmesedler, 10 000.
 
 2.4. REGNSKAP OG PARTISTØTTE
 
-Ørjan har fått i oppdrag å klargjøre nullregnskap og søke om 
-partistøtte. Det må oppklares omkring brreg. Det er greiest om dette 
-kommer fra leder i PIR Hordaland. Øyvind kontakter Geir Martin Ohna som 
-står registrert i brreg nå, registreringen ordnes i løpet av helgen.
+Ørjan har fått i oppdrag å klargjøre nullregnskap og søke om partistøtte. Det må oppklares omkring brreg. Det er greiest om dette kommer fra leder i PIR Hordaland. Øyvind kontakter Geir Martin Ohna som står registrert i brreg nå, registreringen ordnes i løpet av helgen.
 
 2.5. ÅRSMØTET 30. MAI
 
 2.5.1. SAKSPAPIRER
 
-Foreløpig vil det bli lagt fram tre sakspapirer fra styret: Forslaget 
-til styresammensetning, saken om valgbod og utvikling av breddeprogram 
-som skal tas opp på landsmøtet i august. Det må også legges opp en 
-presentasjon av «Hordaland som foregangsfylke» der forslagene om drift 
-og foreslåtte verktøy for drift legges fram.
+Foreløpig vil det bli lagt fram tre sakspapirer fra styret: Forslaget til styresammensetning, saken om valgbod og utvikling av breddeprogram som skal tas opp på landsmøtet i august. Det må også legges opp en presentasjon av «Hordaland som foregangsfylke» der forslagene om drift og foreslåtte verktøy for drift legges fram.
 
 2.5.2. FORSLAG TIL STYRESAMMENSETNING
 
-Det vil bli lagt fram forslag på kommende ekstraordinære årsmøte  30. 
-mai om at det nåværende styret blir gjenvalgt, med tillegg av Geir 
-Martin Ohna (styremedlem) og Olav Handeland (kasserer). Styret har et 
-godt samarbeid, og har kommet fram til tiltak for Hordaland PIR som skal  
-øke aktiviteten og medlemsmassen. Hvis forslaget blir nedstemt,  
-gjennomføres ordinært styrevalg med uavhengige kandidater.
+Det vil bli lagt fram forslag på kommende ekstraordinære årsmøte  30. mai om at det nåværende styret blir gjenvalgt, med tillegg av Geir Martin Ohna (styremedlem) og Olav Handeland (kasserer). Styret har et godt samarbeid, og har kommet fram til tiltak for Hordaland PIR som skal  øke aktiviteten og medlemsmassen. Hvis forslaget blir nedstemt,  gjennomføres ordinært styrevalg med uavhengige kandidater.
 
 For: Ørjan, Ståle, Øyvind.
 Olav støtter forslaget via telefon.
 
 2.5.3. VALGBOD
 
-Dette punktet er sak 5.1 på EOÅM-innkallingen. Det er generell enighet 
-om at valgbod på Torgalmenningen er bra, men ikke til 16 500 kroner, det 
-er for dyrt. Partier kan f.eks. ha egen stand på Sartor Senter gratis. 
-Penger er også bedre brukt på å reise rundt i fylket for å presentere 
-partiet. Dette må avgjøres av Årsmøtet, men dette er styrets syn som da 
-vil bli lagt fram.
+Dette punktet er sak 5.1 på EOÅM-innkallingen. Det er generell enighet om at valgbod på Torgalmenningen er bra, men ikke til 16 500 kroner, det er for dyrt. Partier kan f.eks. ha egen stand på Sartor Senter gratis. Penger er også bedre brukt på å reise rundt i fylket for å presentere partiet. Dette må avgjøres av Årsmøtet, men dette er styrets syn som da vil bli lagt fram.
 
 For: Ståle, Ørjan, Øyvind
 
 2.5.4. OM BREDDEPROGRAM
 
-Diskusjonen kom inn på kjerneprogrammet, og alle tilstedeværende vil ha 
-et breddeprogram.
+Diskusjonen kom inn på kjerneprogrammet, og alle tilstedeværende vil ha et breddeprogram.
 
-Ørjan: Denne fascinasjonen for kjerneprogrammet kan føre til at vi taper 
-velgere. Vi henviser bare til kjerneprogrammet og det beste for 
-menneskeheten, og det er et bullshit-svar. Man må ta på seg noen 
-spørsmål, 20-30 punkter, som folk engasjerer seg i. PIR må her ta 
-standpunkt. F.eks. LGBT-rettigheter, homofiles rett til adopsjon, etc. 
-Tenker på det som engasjerer mannen i gata, og det er ikke om NSA 
-avlytter deg, men om kompisen din som er homse skal få lov til å 
-adoptere. Det blir lett en nerdete politikk, vi må ha holdninger til 
-spørsmål som folk flest engasjerer seg i.
+Ørjan: Denne fascinasjonen for kjerneprogrammet kan føre til at vi taper velgere. Vi henviser bare til kjerneprogrammet og det beste for menneskeheten, og det er et bullshit-svar. Man må ta på seg noen spørsmål, 20-30 punkter, som folk engasjerer seg i. PIR må her ta standpunkt. F.eks. LGBT-rettigheter, homofiles rett til adopsjon, etc. Tenker på det som engasjerer mannen i gata, og det er ikke om NSA avlytter deg, men om kompisen din som er homse skal få lov til å adoptere. Det blir lett en nerdete politikk, vi må ha holdninger til spørsmål som folk flest engasjerer seg i.
 Ståle: Vi må få tilbake kjerneprogrammet.
-Øyvind er enig i at et breddeprogram må på plass, kjerneprogrammet blir 
-for spinkelt for folk flest.
+Øyvind er enig i at et breddeprogram må på plass, kjerneprogrammet blir for spinkelt for folk flest.
 
-Styrets innstilling omkring dette legges fram på det ekstraordinære 
-årsmøtet i PIR Hordaland 30. mai, og det vil bli vedtatt der om Årsmøtet 
-vil levere et forslag på vegne av PIR Hordaland.
+Styrets innstilling omkring dette legges fram på det ekstraordinære årsmøtet i PIR Hordaland 30. mai, og det vil bli vedtatt der om Årsmøtet vil levere et forslag på vegne av PIR Hordaland.
 
 Møtet ble avsluttet kl. 20:04.
-
