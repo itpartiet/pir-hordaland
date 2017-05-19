@@ -1,49 +1,32 @@
-Referat fra styremøte i Hordaland Piratparti 2017-05-18
+'''Referat fra styremøte i Hordaland Piratparti 2017-05-18'''
 
-Oppmøtte: Øyvind A. Holm, Ståle Olsen,  Ørjan Langbakk, Olav Handeland (noen minutter på telefon)
-Sted: Espresso House, Bystasjonen
+Oppmøtte: Øyvind A. Holm, Ståle Olsen,  Ørjan Langbakk, Olav Handeland (noen minutter på telefon)<br />
+Sted: Espresso House, Bystasjonen<br />
 Møtet er vedtaksdyktig, 3/4 oppmøtte.
 
-Møtet startet kl 16:40.
-Valg av ordstyrer droppes.
+Møtet startet kl 16:40.<br />
+Valg av ordstyrer droppes.<br />
 Referent: Øyvind
 
 Saksliste:
 
-<pre>
-1. Godkjenning av innkalling
-2. Eventuelt
-  2.1. Angående offentlige styremøter
-  2.2. Møteform, digitalt vs fysisk oppmøte
-  2.3. Valgkampen
-    2.3.1. Valgkampstart
-    2.3.2. Sosiale medier
-    2.3.3. Stemmesedler
-  2.4. Regnskap og partistøtte
-  2.5. Årsmøtet 30. mai
-    2.5.1. Sakspapirer
-    2.5.2. Forslag til styresammensetning
-    2.5.3. Valgbod
-    2.5.4. Om breddeprogram
-</pre>
-
-1. GODKJENNING AV INNKALLING
+== 1. GODKJENNING AV INNKALLING ==
 
 For: Øyvind, Ørjan, Ståle
 
-2. EVENTUELT
+== 2. EVENTUELT ==
 
 Disse sakene ble tatt opp:
 
-2.1. ANGÅENDE OFFENTLIGE STYREMØTER
+=== 2.1. ANGÅENDE OFFENTLIGE STYREMØTER ===
 
-Øyvind: Vil ha det så åpent som mulig, Foreslår Mumble, med et eget fast rom der møtene holdes. Det skal heller ikke være noe i veien for at anonyme personer dukker innom for å høre på, det er jo ingen fraksjoner ute og går lengre.
-Ørjan: Det kan ikke være fullstendig åpenhet i tilfelle personsensitivitet.
+Øyvind: Vil ha det så åpent som mulig, Foreslår Mumble, med et eget fast rom der møtene holdes. Det skal heller ikke være noe i veien for at anonyme personer dukker innom for å høre på, det er jo ingen fraksjoner ute og går lengre.<br />
+Ørjan: Det kan ikke være fullstendig åpenhet i tilfelle personsensitivitet.<br />
 Ståle: Både og. Noen må være åpne, noen må være lukket. Annethvert, kanskje?
 
 Alle er selvfølgelig enige i at det må mutes når personsensitive ting diskuteres, for eksempel når det gjelder personalsaker. Helst bør et uavhengig møte holdes (eller man tar dette i et lukket forum, med kun styremedlemmer tilstede) der disse sensitive tingene diskuteres.
 
-2.2. MØTEFORM, DIGITALT VS FYSISK OPPMØTE
+=== 2.2. MØTEFORM, DIGITALT VS FYSISK OPPMØTE ===
 
 Ståle: Vil ha fysiske møter der folk møter opp i et lokale.
 Øyvind: Vil ha det så distribuert som mulig, det bør oppmuntres til at digital (voice via mobil) deltakelse går an. Er enig i at det er trivelig og praktisk med personlig oppmøte, men det må ikke være et krav. Fysisk oppmøte bør dog gjennomføres så ofte som mulig, og lokale bør være tilgjengelig for de som kan møte opp. Møtene blir mer effektive, spesielt hvis lokalet inneholder ting som f.eks. projektor.
@@ -53,13 +36,13 @@ Ståle: Det er en god tanke.
 Ståle: Hovedregelen bør være at det er fysisk oppmøte.
 Øyvind: Enig, men det bør være mulighet for å delta digitalt på alle møter i tilfelle det blir vanskelig å forflytte seg fysisk dit.
 
-2.3. VALGKAMPEN
+=== 2.3. VALGKAMPEN ===
 
-2.3.1. VALGKAMPSTART
+==== 2.3.1. VALGKAMPSTART ====
 
 Det er enighet om at vi egentlig ikke er så «tidlig ute» som det står i EOÅM-innkallingen, de fleste partier er i full gang allerede. Valgkampen må startes ASAP. Kontakt PIR sentralt om tilsendelse av materiell. Olav har kontroll på rollupen og flagget, det ligger ute på Lehmkuhl.
 
-2.3.2. SOSIALE MEDIER
+==== 2.3.2. SOSIALE MEDIER ====
 
 Ståle nevner mediaansvarlig, han synes ikke det er nødvendig, alle i styret kan delta. Øyvind er enig, Ørjan mener det er greit enn så lenge. Ståle sier at alle må på kort varsel være klare til å retweete eller kommentere på sosiale medier hvis det plutselig skjer noe. Hver eneste gang det postes noe som anses å være viktig, må det postes på alle medier.
 
@@ -85,7 +68,7 @@ Ståle: Det er viktig å vise aktivitet. Det er viktig å ikke bare bruke én pl
 
 Ørjan påpeker at PIR Hordaland bør skrives som «PIR Hordaland», ikke «Hordaland PIR». Partinavnet må komme først, deretter avdelingen av partiet, «Hordaland». Ståle og Øyvind er enige og innretter seg deretter.
 
-2.3.3. STEMMESEDLER
+==== 2.3.3. STEMMESEDLER ====
 
 Øyvind synes det er bortkastet og lite miljøvennlig med stemmesedler. Det er ingen kjente navn på listen, så det har liten promotiv effekt. Ørjan er enig. På den annen siden betales det ikke for dem, så han tar det ikke så tungt. Ståle vil at vi skal bestille max antall stemmesedler som kan deles ut i en eventuell valgbod og lignende. Det er ingen som støtter at de skal legges i postkassene til folk.
 
@@ -93,30 +76,30 @@ Når det gjelder kontakt med myndighetene om stemmesedlene, kontaktet Øyvind Ho
 
 Øyvind tar kontakt i morgen og purrer. PIR Hordaland kommer til å bestille max antall stemmesedler, 10 000.
 
-2.4. REGNSKAP OG PARTISTØTTE
+=== 2.4. REGNSKAP OG PARTISTØTTE ===
 
 Ørjan har fått i oppdrag å klargjøre nullregnskap og søke om partistøtte. Det må oppklares omkring brreg. Det er greiest om dette kommer fra leder i PIR Hordaland. Øyvind kontakter Geir Martin Ohna som står registrert i brreg nå, registreringen ordnes i løpet av helgen.
 
-2.5. ÅRSMØTET 30. MAI
+=== 2.5. ÅRSMØTET 30. MAI ===
 
-2.5.1. SAKSPAPIRER
+==== 2.5.1. SAKSPAPIRER ====
 
 Foreløpig vil det bli lagt fram tre sakspapirer fra styret: Forslaget til styresammensetning, saken om valgbod og utvikling av breddeprogram som skal tas opp på landsmøtet i august. Det må også legges opp en presentasjon av «Hordaland som foregangsfylke» der forslagene om drift og foreslåtte verktøy for drift legges fram.
 
-2.5.2. FORSLAG TIL STYRESAMMENSETNING
+==== 2.5.2. FORSLAG TIL STYRESAMMENSETNING ====
 
 Det vil bli lagt fram forslag på kommende ekstraordinære årsmøte  30. mai om at det nåværende styret blir gjenvalgt, med tillegg av Geir Martin Ohna (styremedlem) og Olav Handeland (kasserer). Styret har et godt samarbeid, og har kommet fram til tiltak for Hordaland PIR som skal  øke aktiviteten og medlemsmassen. Hvis forslaget blir nedstemt,  gjennomføres ordinært styrevalg med uavhengige kandidater.
 
 For: Ørjan, Ståle, Øyvind.
 Olav støtter forslaget via telefon.
 
-2.5.3. VALGBOD
+==== 2.5.3. VALGBOD ====
 
 Dette punktet er sak 5.1 på EOÅM-innkallingen. Det er generell enighet om at valgbod på Torgalmenningen er bra, men ikke til 16 500 kroner, det er for dyrt. Partier kan f.eks. ha egen stand på Sartor Senter gratis. Penger er også bedre brukt på å reise rundt i fylket for å presentere partiet. Dette må avgjøres av Årsmøtet, men dette er styrets syn som da vil bli lagt fram.
 
 For: Ståle, Ørjan, Øyvind
 
-2.5.4. OM BREDDEPROGRAM
+==== 2.5.4. OM BREDDEPROGRAM ====
 
 Diskusjonen kom inn på kjerneprogrammet, og alle tilstedeværende vil ha et breddeprogram.
 
