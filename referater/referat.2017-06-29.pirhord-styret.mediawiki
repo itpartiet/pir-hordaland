@@ -40,33 +40,17 @@ Det er enighet om at det er nødvendig med smarttelefon, blant annet for bruk mo
 
 Når bankkonto kommer på plass sendes det søknad til sentralstyret om tilskudd til telefoner.
 
-== 5. Opprettelse av bankkonto ==
-
-(10m:38s) Enstemmig vedtak: Øyvind og Olav gis fullmakt til å opprette bankkonto.
-
-(11m:43s) Det trengs styrevedtak for å søke partiet sentralt om økonomisk støtte. Øyvind gis i oppdrag å kontakte sentralstyret om tilskudd til lokallaget etter gjeldende sats når bankkontoen er på plass. Enstemmig vedtatt.
-
-== 6. Sosiale medier og telefon ==
-
-Diverse løs diskusjon omkring hvordan sosiale medier og telefon skal brukes.
-
 (16m:12s) Ørjan foreslår at registrering av telefonnumre kan registreres sentralt så det for eksempel kan kjøpes en nummerserie som brukes av partiet. Ståle vil at det skal ordnes lokalt.
 
 Det er generell enighet om at tre telefoner er et greit antall å kjøpe.
 
-(18m:50s) Ståle: Det er omtrent bare jeg som har brukt Slack. Vi må få alle medlemmene med der.
+== 5. Opprettelse av bankkonto ==
 
-(20m:39s) Håvard: Vi bør ha en mailadresse for media. presse.hordaland@piratpartiet.no?
+Dette ble diskutert i flere omganger i løpet av møtet, så kronologien brytes litt ved at alt omkring denne saken samles her.
 
-(35m:9s) Det er viktig at det kommer fram hvem som har gitt donasjoner. Hvis det kommer anonyme bidrag, ''skal'' de tilbakebetales. Hvis det anonyme bidraget ikke kan tilbakeføres, skal det betales til staten.
+(10m:38s) Enstemmig vedtak: Øyvind og Olav gis fullmakt til å opprette bankkonto.
 
-(36m:14s) Håvard: Partiet kan ikke motta Bitcoin med mindre det fremgår hvem pengene kommer fra, men det er veldig vanskelig å få til sporbart med Bitcoin.
-
-Ørjan: Da må vi i så fall ha en donasjonsknapp for Bitcoin der man må fylle inn tekst, email og lignende.
-
-Ståle: Det kan tenkes at vi får penger fra folk vi ikke har lyst til å få penger fra.
-
-(36m:51s) Ørjan: Vi har lov til å ta betalt i Bitcoin foreksempel for medlemskontingent, det er ikke noe problem.
+(11m:43s) Det trengs styrevedtak for å søke partiet sentralt om økonomisk støtte. Øyvind gis i oppdrag å kontakte sentralstyret om tilskudd til lokallaget etter gjeldende sats når bankkontoen er på plass. Enstemmig vedtatt.
 
 (37m:20s) Ørjan: Hvem har vi planer om å ha bankkonto hos? Hvor skal vi ha kontoen? Jeg hater DnB. Kan vi utelate DnB? De koster en formue å ha bankkonto hos.
 
@@ -92,19 +76,39 @@ Håvard: Den er vesentlig mindre lokal. Jeg tenker at det står mellom Fana Spar
 
 Intet endelig vedtak om bank ble fattet, men det går i retning Fana Sparebank.
 
-== 7. Stemmesedler ==
+== 6. Sosiale medier ==
+
+Diverse løs diskusjon omkring hvordan sosiale medier skal brukes.
+
+(18m:50s) Ståle: Det er omtrent bare jeg som har brukt Slack. Vi må få alle medlemmene med der.
+
+(20m:39s) Håvard: Vi bør ha en mailadresse for media. presse.hordaland@piratpartiet.no?
+
+== 7. Donasjoner ==
+
+(35m:9s) Det er viktig at det kommer fram hvem som har gitt donasjoner. Hvis det kommer anonyme bidrag, ''skal'' de tilbakebetales. Hvis det anonyme bidraget ikke kan tilbakeføres, skal det betales til staten.
+
+(36m:14s) Håvard: Partiet kan ikke motta Bitcoin med mindre det fremgår hvem pengene kommer fra, men det er veldig vanskelig å få til sporbart med Bitcoin.
+
+Ørjan: Da må vi i så fall ha en donasjonsknapp for Bitcoin der man må fylle inn tekst, email og lignende.
+
+Ståle: Det kan tenkes at vi får penger fra folk vi ikke har lyst til å få penger fra.
+
+(36m:51s) Ørjan: Vi har lov til å ta betalt i Bitcoin foreksempel for medlemskontingent, det er ikke noe problem.
+
+== 8. Stemmesedler ==
 
 (41m:37s) Stemmesedler er okei i følge Olav og Øyvind. Øyvind fikk mail fra Anita.Fjellheim@hfk.no 2017-06-02 13:59 der hun takker for bestillingen.
 
-== 8. Nullregnskap og partistøtte ==
+== 9. Nullregnskap og partistøtte ==
 
 (41m:46s) Det er ikke kommet svar på dette enda, så saken utsettes.
 
-== 9. Registrering i brreg ==
+== 10. Registrering i brreg ==
 
 (42m:20s) Øyvind har tilgang. Geir Martin har visstnok også tilgang. Avklares med ham senere.
 
-== 10. Nye vedtekter ==
+== 11. Nye vedtekter ==
 
 (42m:47s) Håvard: Vi må definere en person eller gruppe som får ansvar for å utforme vedtekter for styret.
 
@@ -116,7 +120,7 @@ Ståle: Det er mitt inntrykk óg.
 
 Saken legges på vent til etter landsmøtet når nye lokale vedtekter sannsynligvis blir adoptert fra sentralt hold.
 
-== 11. Hordalandsturné ==
+== 12. Hordalandsturné ==
 
 (46m:3s) Istedenfor å bruke valgbod planlegges det som tidligere nevnt å reise til utvalgte steder i Hordaland for å lage valgstand. Det må lages liste over destinasjoner og hvem som skal reise. Ståle og Øyvind har snakket om dette, og det foreslås periodekort for tog på Vossebanen til og med Myrdal, det koster 1200 kroner per billett tur/retur, da kan vi reise så mye vi vil med lokaltogene i syv dager.
 
@@ -126,11 +130,15 @@ Foreløpige forslag til destinasjoner er Indre Arna, Voss, Norheimsund, Leirvik 
 
 (50m:4s) Tanken har blitt luftet om at det skal kjøres bil rundt i fylket, for eksempel til Stord og Nord-Hordaland. Bil kan lånes, men drivstoff må eventuelt dekkes.
 
-== 12. Intervjutrening ==
+== 13. Intervjutrening ==
 
 (51m:5s) Alle i styret bør ha for eksempel minst fem timer med kameratrening i løpet av juli. Det kan arrangeres uformelle møter der folk blir stilt vanskelige spørsmål mens det filmes. Alle lager egne spørsmål som stilles til de andre i separate intervjuer.
 
+== 14. Infomail til medlemmer ==
+
 (58m:57s) Ørjan melder seg frivillig til å skrive førsteutkast av infomail til medlemmer. Håvard leser gjennom.
+
+== 15. Eventuelt ==
 
 (1t:0m:45s) Håvard må forlate møtet. Siden møtet dermed ikke er vedtaktsdyktig, ble resten av møtet brukt til generell diskusjon omkring blant annet
 
