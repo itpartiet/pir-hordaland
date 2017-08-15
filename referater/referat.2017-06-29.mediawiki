@@ -1,9 +1,32 @@
+'''Styremøte i Piratpartiet avd. Hordaland 2017-06-29'''
 
-konst
-øyvind referent
+Oppmøtte (alfabetisk):
 
-styresamm
-  Håvard vil være styremedlem. Geir Martin er uavklart foreløpig.
+* Håvard Hatlevik
+* Ståle Olsen
+* Ørjan Langbakk
+* Øyvind A. Holm
+
+Sted: Espresso House, Bystasjonen<br />
+Møtet er vedtaksdyktig, 4/6 oppmøtte.
+
+Møtet startet kl 17:21.<br />
+Valg av ordstyrer droppes.<br />
+Referent: Øyvind
+
+Saksliste:
+
+== 1. Konstituering av møtet og valg av referent ==
+
+Øyvind valgt som referent, valg av ordstyrer droppes.
+
+== 2. Styresammensetning ==
+
+Etter ekstraordinært årsmøte for PIR Hordaland 2017-05-30 ble det under punkt 6 
+vedtatt at Håvard Hatlevik og Geir Martin Ohna kunne konstituere seg selv på 
+førstkommende styremøte og velge om de vil være styremedlem eller varamedlem.
+
+Håvard vil være styremedlem. Geir Martin er uavklart foreløpig.
 
 materiell
 
