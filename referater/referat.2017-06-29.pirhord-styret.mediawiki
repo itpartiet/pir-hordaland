@@ -18,9 +18,9 @@ Møtet startet kl 17:21. Tidspunkter i parentes referer til posisjonen i lydoppt
 
 == 2. Styresammensetning ==
 
-(27s) Etter ekstraordinært årsmøte for PIR Hordaland 2017-05-30 ble det under punkt 6 vedtatt at Håvard Hatlevik og Geir Martin Ohna kunne konstituere seg selv på førstkommende styremøte og velge om de vil være styremedlem eller varamedlem.
+(På det ekstraordinære årsmøtet for PIR Hordaland 2017-05-30 ble det under punkt 6 vedtatt at Håvard Hatlevik og Geir Martin Ohna kan konstituere seg selv på førstkommende styremøte og velge om de vil være styremedlem eller varamedlem.)
 
-Vedtak: Håvard vil være styremedlem, alle i styret er enige. Geir Martin er foreløpig uavklart. Han vil få status som styremedlem eller vara når det oppnås kontakt med ham. Det er ingen praktisk forskjell mellom alternativene, styret må ha fire oppmøtte i begge tilfeller for å være vedtaktsdyktige.
+(26s) Håvard vil være styremedlem, alle i styret er enige. Geir Martin er foreløpig uavklart. Han vil få status som styremedlem eller vara når det oppnås kontakt med ham. Det er ingen praktisk forskjell mellom alternativene, styret må ha fire oppmøtte i begge tilfeller for å være vedtaktsdyktige.
 
 == 3. Valgmateriell og effekter ==
 
@@ -94,7 +94,7 @@ Diverse løs diskusjon omkring hvordan sosiale medier skal brukes.
 
 Ståle: Det kan tenkes at vi får penger fra folk vi ikke har lyst til å få penger fra.
 
-(36m:51s) Ørjan: Vi har lov til å ta betalt i Bitcoin foreksempel for medlemskontingent, det er ikke noe problem.
+(36m:51s) Ørjan: Vi har lov til å ta betalt i Bitcoin når det gjelder for eksempel medlemskontingent, det er ikke noe problem.
 
 == 8. Stemmesedler ==
 
@@ -126,7 +126,7 @@ Saken legges på vent til etter landsmøtet når nye lokale vedtekter sannsynlig
 
 Foreløpige forslag til destinasjoner er Indre Arna, Voss, Norheimsund, Leirvik på Stord, Odda og Kleppestø. Så er vi selvfølgelig på Sartor Senter også. Undersøk om det er noe lignende på Åsane Senter. Banen til Myrdal må sjekkes på forhånd, det er mange stopp underveis. Kun lokaltog kan brukes, men det er fire avganger hver dag til Myrdal.
 
-(48m:44s) Ørjan fremmer forslag om at så fremt det er penger til det, støttes de som reiser med matpenger underveis i og med at ingen får betalt.
+(48m:44s) Ørjan fremmer forslag om at så fremt det er penger til det, støttes de som reiser med matpenger underveis i og med at ingen får betalt. De andre er enige.
 
 (50m:4s) Tanken har blitt luftet om at det skal kjøres bil rundt i fylket, for eksempel til Stord og Nord-Hordaland. Bil kan lånes, men drivstoff må eventuelt dekkes.
 
@@ -140,12 +140,19 @@ Foreløpige forslag til destinasjoner er Indre Arna, Voss, Norheimsund, Leirvik 
 
 == 15. Eventuelt ==
 
-(1t:0m:45s) Håvard må forlate møtet. Siden møtet dermed ikke er vedtaktsdyktig, ble resten av møtet brukt til generell diskusjon omkring blant annet
+(1t:0m:45s) Håvard må forlate møtet. Siden møtet dermed ikke er vedtaktsdyktig, ble resten av møtet brukt til generell diskusjon omkring blant annet:
 
-* aktivisering av medlemmer
-* bruken av sosiale medier og hvordan de kan effektiviseres
-* valgmateriell
-* registrering av presse.hordaland@piratpartiet.no
+(1t:0m:52s) Aktivisering av medlemmer. Det blir ringerunde når telefonene kommer på plass. Det formelle må ordnes så konto kommer på plass så telefoner kan kjøpes.
+
+(1t:1m:12s) Ståle: Vi må begynne å bygge opp vårt nærvær på sosiale medier så snart som mulig.
+
+Ørjan: Kanskje vi kan sette opp noen feeds inn til Slack, kanskje en egen feed som henter nyheter fra aviser og pjåter inn linker som vi kan filtrere på for eksempel keywords. Ting som den kan trigge på; Piratpartiet, DLD, nettnøytralitet, alle mulige sånne ting som man kan tenke seg.
+
+(1t:2m:4s) Ståle: Det med overvåkning bør selvfølgelig gjøres til en hovedsak i valgkampen, og gjerne bittorrent-nedlasting óg.
+
+Ørjan: Og ikke minst denne nye loven som nettopp kom angående biometri.
+
+Diskusjon omkring hvor mye overvåking i samfunnet som anses som akseptabelt. Ståle vil ha så lite som mulig, Øyvind mener at det bør godtas i privat sammenheng for eksempel ved beskyttelse av eiendom mot tyveri og hærverk.
 
 (1t:19m:4s) Foreløpig tidspunkt for neste styremøte settes til 13. juli, om fjorten dager.
 
