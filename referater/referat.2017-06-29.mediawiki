@@ -94,7 +94,7 @@ Håvard: Den er vesentlig mindre lokal. Jeg tenker at det står mellom Fana Spar
 
 == Nullregsskap og partistøtte. ==
 
-(41m46s) Det er ikke kommet svar på dette enda.
+(41m46s) Det er ikke kommet svar på dette enda, så saken utsettes.
 
 == Registrering i brreg ==
 
@@ -108,14 +108,27 @@ Håvard: Den er vesentlig mindre lokal. Jeg tenker at det står mellom Fana Spar
 
 (46m03s) Istedenfor å bruke valgbod planlegges det som tidligere nevnt å reise til utvalgte steder i Hordaland for å lage valgstand. Det må lages liste over destinasjoner og hvem som skal reise. Ståle og Øyvind har snakket om dette, og det foreslås periodekort for tog på Vossebanen til og med Myrdal, det koster 1200 kroner per billett tur/retur, da kan vi reise så mye vi vil med lokaltogene i syv dager.
 
-Foreløpige forslag til destinasjoner er Indre Arna, Voss, Norheimsund, Leirvik på Stord, Odda og Kleppestø. Så er vi selvfølgelig på Sartor Senter også. Undersøk om det er noe lignende på Åsane Senter.
+Foreløpige forslag til destinasjoner er Indre Arna, Voss, Norheimsund, Leirvik på Stord, Odda og Kleppestø. Så er vi selvfølgelig på Sartor Senter også. Undersøk om det er noe lignende på Åsane Senter. Banen til Myrdal må sjekkes på forhånd, det er mange stopp underveis. Kun lokaltog kan brukes, men det er fire avganger hver dag til Myrdal.
 
-Registrer presse.hordaland@piratpartiet.no
+(48m44s) Ørjan fremmer forslag om så fremt det er penger til det, støttes de som reiser med matpenger underveis i og med at ingen får betalt.
 
-ørjan skriver velkomstmail, håvard leser gjennom
+(50m4s) Tanken har blitt luftet om at det skal kjøres bil rundt i fylket, for eksempel til Stord og Nord-Hordaland. Bil kan lånes, men drivstoff må eventuelt dekkes.
 
-== Møtet avsluttes ==
+== Intervjutrening ==
 
-(1t41m15s) Lydopptaket stoppes klokken 19:02:20. Det er lagret i AV-arkivet som `pir-av/Arkiv/2017/06/29/2017-06-29.styremøte-pir-hordaland.opus`.
+(51m5s) Alle i styret bør ha for eksempel minst fem timer med kameratrening i løpet av juli. Det kan arrangeres uformelle møter der folk blir stilt vanskelige spørsmål mens det filmes. Alle lager egne spørsmål som stilles til de andre i separate intervjuer.
+
+(58m57s) Ørjan melder seg frivillig til å skrive førsteutkast av infomail til medlemmer. Håvard leser gjennom.
+
+(1t0m45s) Håvard må forlate møtet. Siden møtet dermed ikke er vedtaktsdyktig, ble resten av møtet brukt til generell diskusjon omkring blant annet
+
+* aktivisering av medlemmer
+* bruken av sosiale medier og hvordan de kan effektiviseres
+* valgmateriell
+* registrering av presse.hordaland@piratpartiet.no
+
+(1t19m4s) Foreløpig tidspunkt for neste styremøte settes til 13. juli, om fjorten dager.
+
+(1t41m15s) Lydopptaket stoppes klokken 19:02:20. Det er lagret i AV-arkivet som <code>pir-av/Arkiv/2017/06/29/2017-06-29.styremøte-pir-hordaland.opus</code>.
 
 vim: set ft=mediawiki tw=9999 wrap :
