@@ -16,7 +16,7 @@ Saksliste:
 
 == 1. Konstituering av møtet og valg av referent ==
 
-(6s) Øyvind valgt som referent, valg av ordstyrer droppes.
+(6s) Ingen innvendinger til innkallingen. Øyvind valgt som referent, valg av ordstyrer droppes.
 
 == 2. Styresammensetning ==
 
@@ -48,7 +48,7 @@ Når bankkonto kommer på plass sendes det søknad til sentralstyret om tilskudd
 
 (11m43s) Det trengs styrevedtak for å søke partiet sentralt om økonomisk støtte. Øyvind gis i oppdrag å kontakte sentralstyret om tilskudd til lokallaget etter gjeldende sats når bankkontoen er på plass. Enstemmig vedtatt.
 
-== Sosiale medier og telefon ==
+== 6. Sosiale medier og telefon ==
 
 Diverse løs diskusjon omkring hvordan sosiale medier og telefon skal brukes.
 
@@ -94,23 +94,31 @@ Håvard: Den er vesentlig mindre lokal. Jeg tenker at det står mellom Fana Spar
 
 Intet endelig vedtak om bank ble fattet, men det går i retning Fana Sparebank.
 
-== Stemmesedler ==
+== 7. Stemmesedler ==
 
 (41m37s) Stemmesedler er okei i følge Olav og Øyvind. Øyvind fikk mail fra Anita.Fjellheim@hfk.no 2017-06-02 13:59 der hun takker for bestillingen.
 
-== Nullregnskap og partistøtte ==
+== 8. Nullregnskap og partistøtte ==
 
 (41m46s) Det er ikke kommet svar på dette enda, så saken utsettes.
 
-== Registrering i brreg ==
+== 9. Registrering i brreg ==
 
 (42m20s) Øyvind har tilgang. Geir Martin har visstnok også tilgang. Avklares med ham senere.
 
-== Nye vedtekter ==
+== 10. Nye vedtekter ==
 
 (42m47s) Håvard: Vi må definere en person eller gruppe som får ansvar for å utforme vedtekter for styret.
 
-== Hordalandsturné ==
+Øyvind: Var det ikke snakk om at alle lokallag skal adoptere vedtekter fra landsmøtet i august? Det skal visstnok lages en mal som lokale vedtekter skal baseres på.
+
+Ståle: Det er mitt inntrykk óg.
+
+Ørjan: Jeg skjønner egentlig ikke hvorfor alle fylkeslag skal være ansvarlig for egne vedtekter. Det bør være en sentral mal, eventuelt kan man legge til småting hvis det trengs.
+
+Saken legges på vent til etter landsmøtet når nye lokale vedtekter sannsynligvis blir adoptert fra sentralt hold.
+
+== 11. Hordalandsturné ==
 
 (46m03s) Istedenfor å bruke valgbod planlegges det som tidligere nevnt å reise til utvalgte steder i Hordaland for å lage valgstand. Det må lages liste over destinasjoner og hvem som skal reise. Ståle og Øyvind har snakket om dette, og det foreslås periodekort for tog på Vossebanen til og med Myrdal, det koster 1200 kroner per billett tur/retur, da kan vi reise så mye vi vil med lokaltogene i syv dager.
 
@@ -120,7 +128,7 @@ Foreløpige forslag til destinasjoner er Indre Arna, Voss, Norheimsund, Leirvik 
 
 (50m4s) Tanken har blitt luftet om at det skal kjøres bil rundt i fylket, for eksempel til Stord og Nord-Hordaland. Bil kan lånes, men drivstoff må eventuelt dekkes.
 
-== Intervjutrening ==
+== 12. Intervjutrening ==
 
 (51m5s) Alle i styret bør ha for eksempel minst fem timer med kameratrening i løpet av juli. Det kan arrangeres uformelle møter der folk blir stilt vanskelige spørsmål mens det filmes. Alle lager egne spørsmål som stilles til de andre i separate intervjuer.
 
@@ -137,4 +145,7 @@ Foreløpige forslag til destinasjoner er Indre Arna, Voss, Norheimsund, Leirvik 
 
 (1t41m15s) Lydopptaket stoppes klokken 19:02:20. Det er lagret i AV-arkivet som <code>pir-av/Arkiv/2017/06/29/2017-06-29.styremøte-pir-hordaland.opus</code>.
 
-vim: set ft=mediawiki tw=9999 wrap :
+[[Category:Hordaland Piratparti]]
+[[Category:Referater]]
+
+<!-- vim: set ft=mediawiki tw=9999 wrap : -->
