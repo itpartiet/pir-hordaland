@@ -7,7 +7,7 @@ Oppmøtte (alfabetisk):
 * Ørjan Langbakk
 * Øyvind A. Holm
 
-Sted: Espresso House, Bystasjonen<br />
+Sted: Espresso House, Bystasjonen, Bergen<br />
 Møtet er vedtaksdyktig, 4/6 oppmøtte.
 
 Møtet startet kl 17:21. Tidspunkter i parentes referer til posisjonen i lydopptaket av møtet.<br />
@@ -126,7 +126,7 @@ Saken legges på vent til etter landsmøtet når nye lokale vedtekter sannsynlig
 
 Foreløpige forslag til destinasjoner er Indre Arna, Voss, Norheimsund, Leirvik på Stord, Odda og Kleppestø. Så er vi selvfølgelig på Sartor Senter også. Undersøk om det er noe lignende på Åsane Senter. Banen til Myrdal må sjekkes på forhånd, det er mange stopp underveis. Kun lokaltog kan brukes, men det er fire avganger hver dag til Myrdal.
 
-(48m:44s) Ørjan fremmer forslag om så fremt det er penger til det, støttes de som reiser med matpenger underveis i og med at ingen får betalt.
+(48m:44s) Ørjan fremmer forslag om at så fremt det er penger til det, støttes de som reiser med matpenger underveis i og med at ingen får betalt.
 
 (50m:4s) Tanken har blitt luftet om at det skal kjøres bil rundt i fylket, for eksempel til Stord og Nord-Hordaland. Bil kan lånes, men drivstoff må eventuelt dekkes.
 
@@ -149,7 +149,7 @@ Foreløpige forslag til destinasjoner er Indre Arna, Voss, Norheimsund, Leirvik 
 
 (1t:19m:4s) Foreløpig tidspunkt for neste styremøte settes til 13. juli, om fjorten dager.
 
-(1t:41m:15s) Lydopptaket stoppes klokken 19:02:20. Det er lagret i AV-arkivet som <code>pir-av/Arkiv/2017/06/29/2017-06-29.styremøte-pir-hordaland.opus</code>.
+(1t:41m:15s) Lydopptaket stoppes klokken 19:02:20. Det er lagret i AV-arkivet som <code>pir-av.git/Arkiv/2017/06/29/2017-06-29.styremøte-pir-hordaland.opus</code>.
 
 [[Category:Hordaland Piratparti]]
 [[Category:Referater]]
