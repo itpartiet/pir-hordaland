@@ -10,8 +10,7 @@ Oppmøtte (alfabetisk):
 Sted: Espresso House, Bystasjonen<br />
 Møtet er vedtaksdyktig, 4/6 oppmøtte.
 
-Møtet startet kl 17:21. Tidspunkter i parentes er relative til starten av 
-lydopptaket av møtet som er 1t41m15s.<br />
+Møtet startet kl 17:21. Tidspunkter i parentes er relative til starten av lydopptaket av møtet som er 1t41m15s.<br />
 
 Saksliste:
 
@@ -21,52 +20,33 @@ Saksliste:
 
 == 2. Styresammensetning ==
 
-(27s) Etter ekstraordinært årsmøte for PIR Hordaland 2017-05-30 ble det under 
-punkt 6 vedtatt at Håvard Hatlevik og Geir Martin Ohna kunne konstituere seg 
-selv på førstkommende styremøte og velge om de vil være styremedlem eller 
-varamedlem.
+(27s) Etter ekstraordinært årsmøte for PIR Hordaland 2017-05-30 ble det under punkt 6 vedtatt at Håvard Hatlevik og Geir Martin Ohna kunne konstituere seg selv på førstkommende styremøte og velge om de vil være styremedlem eller varamedlem.
 
-Vedtak: Håvard vil være styremedlem, alle i styret er enige. Geir Martin er 
-foreløpig uavklart. Han vil få status som styremedlem eller vara når det oppnås 
-kontakt med ham. Det er ingen praktisk forskjell mellom alternativene, styret 
-må ha fire oppmøtte i begge tilfeller for å være vedtaktsdyktige.
+Vedtak: Håvard vil være styremedlem, alle i styret er enige. Geir Martin er foreløpig uavklart. Han vil få status som styremedlem eller vara når det oppnås kontakt med ham. Det er ingen praktisk forskjell mellom alternativene, styret må ha fire oppmøtte i begge tilfeller for å være vedtaktsdyktige.
 
 == 3. Valgmateriell og effekter ==
 
-(1m32s) PIR Hordaland bør ha materiell og effekter for salg, bruk og utdeling. 
-For eksempel kulepenner og T-skjorter.
+(1m32s) PIR Hordaland bør ha materiell og effekter for salg, bruk og utdeling. For eksempel kulepenner og T-skjorter.
 
-T-skjortene er vi litt avventende på, men vi får dem sannsynligvis innen et par 
-uker. Av effekter er det greit å ha for eksempel A5-leaflets med kjernepunkter. 
-Må være trykket på farget papir som gjør at det skiller seg ut. Det bør lages 
-en lokallagspakke som sendes ut til alle aktive fylkeslag. Avklar med 
-sentralstyret om lokallagspakke.
+T-skjortene er vi litt avventende på, men vi får dem sannsynligvis innen et par uker. Av effekter er det greit å ha for eksempel A5-leaflets med kjernepunkter. Må være trykket på farget papir som gjør at det skiller seg ut. Det bør lages en lokallagspakke som sendes ut til alle aktive fylkeslag. Avklar med sentralstyret om lokallagspakke.
 
 == 4. Kjøp av telefoner til PIR Hordaland ==
 
-(5m21s) Ståle: Det er en ting som kanskje krever avstemming, vi bør få gjort 
-det mens Håvard er her. Vi har snakket om å kjøpe inn tre telefoner som kan bli 
-brukt av meg, Ørjan og Øyvind i forbindelse med valgkampen.
+(5m21s) Ståle: Det er en ting som kanskje krever avstemming, vi bør få gjort det mens Håvard er her. Vi har snakket om å kjøpe inn tre telefoner som kan bli brukt av meg, Ørjan og Øyvind i forbindelse med valgkampen.
 
 Øyvind: Vi kan kjøpe en sånn til 149 kroner på Clas Ohlson.
 
 Ståle: Det må være en med skikkelig web-kontakt, en smarttelefon.
 
-Det er enighet om at det er nødvendig med smarttelefon, blant annet for bruk 
-mot sosiale medier. Det er også viktig at PIR Hordaland får seg et offisielt 
-telefonnummer.
+Det er enighet om at det er nødvendig med smarttelefon, blant annet for bruk mot sosiale medier. Det er også viktig at PIR Hordaland får seg et offisielt telefonnummer.
 
-Når bankkonto kommer på plass sendes det søknad til sentralstyret om tilskudd 
-til telefoner.
+Når bankkonto kommer på plass sendes det søknad til sentralstyret om tilskudd til telefoner.
 
 == 5. Opprettelse av bankkonto ==
 
-(10m38s) Enstemmig vedtak: Øyvind og Olav gis fullmakt til å opprette 
-bankkonto.
+(10m38s) Enstemmig vedtak: Øyvind og Olav gis fullmakt til å opprette bankkonto.
 
-(11m43s) Det trengs styrevedtak for å søke partiet sentralt om økonomisk 
-støtte. Øyvind gis i oppdrag å kontakte sentralstyret om tilskudd til 
-lokallaget etter gjeldende sats. Enstemmig vedtatt.
+(11m43s) Det trengs styrevedtak for å søke partiet sentralt om økonomisk støtte. Øyvind gis i oppdrag å kontakte sentralstyret om tilskudd til lokallaget etter gjeldende sats. Enstemmig vedtatt.
 
 (18m50s) Ståle: Det er omtrent bare jeg som har brukt Slack.
 
@@ -83,3 +63,5 @@ lokallaget etter gjeldende sats. Enstemmig vedtatt.
 Registrer presse.hordaland@piratpartiet.no
 
 ørjan skriver velkomstmail, håvard leser gjennom
+
+vim: set ft=mediawiki tw=9999 wrap :
