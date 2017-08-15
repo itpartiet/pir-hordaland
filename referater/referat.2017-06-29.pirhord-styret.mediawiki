@@ -24,13 +24,13 @@ Vedtak: Håvard vil være styremedlem, alle i styret er enige. Geir Martin er fo
 
 == 3. Valgmateriell og effekter ==
 
-(1m32s) PIR Hordaland bør ha materiell og effekter for salg, bruk og utdeling. For eksempel kulepenner og T-skjorter.
+(1m:32s) PIR Hordaland bør ha materiell og effekter for salg, bruk og utdeling. For eksempel kulepenner og T-skjorter.
 
 T-skjortene er vi litt avventende på, men vi får dem sannsynligvis innen et par uker. Av effekter er det greit å ha for eksempel A5-leaflets med kjernepunkter. Må være trykket på farget papir som gjør at det skiller seg ut. Det bør lages en lokallagspakke som sendes ut til alle aktive fylkeslag. Avklar med sentralstyret om lokallagspakke.
 
 == 4. Kjøp av telefoner til PIR Hordaland ==
 
-(5m21s) Ståle: Det er en ting som kanskje krever avstemming, vi bør få gjort det mens Håvard er her. Vi har snakket om å kjøpe inn tre telefoner som kan bli brukt av meg, Ørjan og Øyvind i forbindelse med valgkampen.
+(5m:21s) Ståle: Det er en ting som kanskje krever avstemming, vi bør få gjort det mens Håvard er her. Vi har snakket om å kjøpe inn tre telefoner som kan bli brukt av meg, Ørjan og Øyvind i forbindelse med valgkampen.
 
 Øyvind: Vi kan kjøpe en sånn til 149 kroner på Clas Ohlson.
 
@@ -42,33 +42,33 @@ Når bankkonto kommer på plass sendes det søknad til sentralstyret om tilskudd
 
 == 5. Opprettelse av bankkonto ==
 
-(10m38s) Enstemmig vedtak: Øyvind og Olav gis fullmakt til å opprette bankkonto.
+(10m:38s) Enstemmig vedtak: Øyvind og Olav gis fullmakt til å opprette bankkonto.
 
-(11m43s) Det trengs styrevedtak for å søke partiet sentralt om økonomisk støtte. Øyvind gis i oppdrag å kontakte sentralstyret om tilskudd til lokallaget etter gjeldende sats når bankkontoen er på plass. Enstemmig vedtatt.
+(11m:43s) Det trengs styrevedtak for å søke partiet sentralt om økonomisk støtte. Øyvind gis i oppdrag å kontakte sentralstyret om tilskudd til lokallaget etter gjeldende sats når bankkontoen er på plass. Enstemmig vedtatt.
 
 == 6. Sosiale medier og telefon ==
 
 Diverse løs diskusjon omkring hvordan sosiale medier og telefon skal brukes.
 
-(16m12s) Ørjan foreslår at registrering av telefonnumre kan registreres sentralt så det for eksempel kan kjøpes en nummerserie som brukes av partiet. Ståle vil at det skal ordnes lokalt.
+(16m:12s) Ørjan foreslår at registrering av telefonnumre kan registreres sentralt så det for eksempel kan kjøpes en nummerserie som brukes av partiet. Ståle vil at det skal ordnes lokalt.
 
 Det er generell enighet om at tre telefoner er et greit antall å kjøpe.
 
-(18m50s) Ståle: Det er omtrent bare jeg som har brukt Slack. Vi må få alle medlemmene med der.
+(18m:50s) Ståle: Det er omtrent bare jeg som har brukt Slack. Vi må få alle medlemmene med der.
 
-(20m39s) Håvard: Vi bør ha en mailadresse for media. presse.hordaland@piratpartiet.no?
+(20m:39s) Håvard: Vi bør ha en mailadresse for media. presse.hordaland@piratpartiet.no?
 
-(35m9s) Det er viktig at det kommer fram hvem som har gitt donasjoner. Hvis det kommer anonyme bidrag, ''skal'' de tilbakebetales. Hvis det anonyme bidraget ikke kan tilbakeføres, skal det betales til staten.
+(35m:9s) Det er viktig at det kommer fram hvem som har gitt donasjoner. Hvis det kommer anonyme bidrag, ''skal'' de tilbakebetales. Hvis det anonyme bidraget ikke kan tilbakeføres, skal det betales til staten.
 
-(36m14s) Håvard: Partiet kan ikke motta Bitcoin med mindre det fremgår hvem pengene kommer fra, men det er veldig vanskelig å få til sporbart med Bitcoin.
+(36m:14s) Håvard: Partiet kan ikke motta Bitcoin med mindre det fremgår hvem pengene kommer fra, men det er veldig vanskelig å få til sporbart med Bitcoin.
 
 Ørjan: Da må vi i så fall ha en donasjonsknapp for Bitcoin der man må fylle inn tekst, email og lignende.
 
 Ståle: Det kan tenkes at vi får penger fra folk vi ikke har lyst til å få penger fra.
 
-(36m51s) Ørjan: Vi har lov til å ta betalt i Bitcoin foreksempel for medlemskontingent, det er ikke noe problem.
+(36m:51s) Ørjan: Vi har lov til å ta betalt i Bitcoin foreksempel for medlemskontingent, det er ikke noe problem.
 
-(37m20s) Ørjan: Hvem har vi planer om å ha bankkonto hos? Hvor skal vi ha kontoen? Jeg hater DnB. Kan vi utelate DnB? De koster en formue å ha bankkonto hos.
+(37m:20s) Ørjan: Hvem har vi planer om å ha bankkonto hos? Hvor skal vi ha kontoen? Jeg hater DnB. Kan vi utelate DnB? De koster en formue å ha bankkonto hos.
 
 Ståle: Absolutt.
 
@@ -76,7 +76,7 @@ Håvard: DnB er grisedyrt, det er dårlig, det er...
 
 Ståle: Helt enig.
 
-(37m41s) Øyvind: Fana Sparebank har jeg hørt mye fint om, en veldig trivelig bank.
+(37m:41s) Øyvind: Fana Sparebank har jeg hørt mye fint om, en veldig trivelig bank.
 
 Ørjan: Fana Sparebank er faktisk veldig flinke og hyggelige. Da er man faktisk lokalt forankret. Jeg kan gå i banken og snakke med den samme personen som jeg snakket med for to år siden.
 
@@ -84,7 +84,7 @@ Håvard: Ja, de er veldig okei.
 
 Fana Sparebank har flere filialer i Bergensområdet.
 
-(38m28s) Ståle: Men hvorfor ikke Sparebanken Vest?
+(38m:28s) Ståle: Men hvorfor ikke Sparebanken Vest?
 
 Håvard: Den er vesentlig mindre lokal. Jeg tenker at det står mellom Fana Sparebank og Sogn Sparebank.
 
@@ -94,19 +94,19 @@ Intet endelig vedtak om bank ble fattet, men det går i retning Fana Sparebank.
 
 == 7. Stemmesedler ==
 
-(41m37s) Stemmesedler er okei i følge Olav og Øyvind. Øyvind fikk mail fra Anita.Fjellheim@hfk.no 2017-06-02 13:59 der hun takker for bestillingen.
+(41m:37s) Stemmesedler er okei i følge Olav og Øyvind. Øyvind fikk mail fra Anita.Fjellheim@hfk.no 2017-06-02 13:59 der hun takker for bestillingen.
 
 == 8. Nullregnskap og partistøtte ==
 
-(41m46s) Det er ikke kommet svar på dette enda, så saken utsettes.
+(41m:46s) Det er ikke kommet svar på dette enda, så saken utsettes.
 
 == 9. Registrering i brreg ==
 
-(42m20s) Øyvind har tilgang. Geir Martin har visstnok også tilgang. Avklares med ham senere.
+(42m:20s) Øyvind har tilgang. Geir Martin har visstnok også tilgang. Avklares med ham senere.
 
 == 10. Nye vedtekter ==
 
-(42m47s) Håvard: Vi må definere en person eller gruppe som får ansvar for å utforme vedtekter for styret.
+(42m:47s) Håvard: Vi må definere en person eller gruppe som får ansvar for å utforme vedtekter for styret.
 
 Øyvind: Var det ikke snakk om at alle lokallag skal adoptere vedtekter fra landsmøtet i august? Det skal visstnok lages en mal som lokale vedtekter skal baseres på.
 
@@ -118,30 +118,30 @@ Saken legges på vent til etter landsmøtet når nye lokale vedtekter sannsynlig
 
 == 11. Hordalandsturné ==
 
-(46m03s) Istedenfor å bruke valgbod planlegges det som tidligere nevnt å reise til utvalgte steder i Hordaland for å lage valgstand. Det må lages liste over destinasjoner og hvem som skal reise. Ståle og Øyvind har snakket om dette, og det foreslås periodekort for tog på Vossebanen til og med Myrdal, det koster 1200 kroner per billett tur/retur, da kan vi reise så mye vi vil med lokaltogene i syv dager.
+(46m:3s) Istedenfor å bruke valgbod planlegges det som tidligere nevnt å reise til utvalgte steder i Hordaland for å lage valgstand. Det må lages liste over destinasjoner og hvem som skal reise. Ståle og Øyvind har snakket om dette, og det foreslås periodekort for tog på Vossebanen til og med Myrdal, det koster 1200 kroner per billett tur/retur, da kan vi reise så mye vi vil med lokaltogene i syv dager.
 
 Foreløpige forslag til destinasjoner er Indre Arna, Voss, Norheimsund, Leirvik på Stord, Odda og Kleppestø. Så er vi selvfølgelig på Sartor Senter også. Undersøk om det er noe lignende på Åsane Senter. Banen til Myrdal må sjekkes på forhånd, det er mange stopp underveis. Kun lokaltog kan brukes, men det er fire avganger hver dag til Myrdal.
 
-(48m44s) Ørjan fremmer forslag om så fremt det er penger til det, støttes de som reiser med matpenger underveis i og med at ingen får betalt.
+(48m:44s) Ørjan fremmer forslag om så fremt det er penger til det, støttes de som reiser med matpenger underveis i og med at ingen får betalt.
 
-(50m4s) Tanken har blitt luftet om at det skal kjøres bil rundt i fylket, for eksempel til Stord og Nord-Hordaland. Bil kan lånes, men drivstoff må eventuelt dekkes.
+(50m:4s) Tanken har blitt luftet om at det skal kjøres bil rundt i fylket, for eksempel til Stord og Nord-Hordaland. Bil kan lånes, men drivstoff må eventuelt dekkes.
 
 == 12. Intervjutrening ==
 
-(51m5s) Alle i styret bør ha for eksempel minst fem timer med kameratrening i løpet av juli. Det kan arrangeres uformelle møter der folk blir stilt vanskelige spørsmål mens det filmes. Alle lager egne spørsmål som stilles til de andre i separate intervjuer.
+(51m:5s) Alle i styret bør ha for eksempel minst fem timer med kameratrening i løpet av juli. Det kan arrangeres uformelle møter der folk blir stilt vanskelige spørsmål mens det filmes. Alle lager egne spørsmål som stilles til de andre i separate intervjuer.
 
-(58m57s) Ørjan melder seg frivillig til å skrive førsteutkast av infomail til medlemmer. Håvard leser gjennom.
+(58m:57s) Ørjan melder seg frivillig til å skrive førsteutkast av infomail til medlemmer. Håvard leser gjennom.
 
-(1t0m45s) Håvard må forlate møtet. Siden møtet dermed ikke er vedtaktsdyktig, ble resten av møtet brukt til generell diskusjon omkring blant annet
+(1t:0m:45s) Håvard må forlate møtet. Siden møtet dermed ikke er vedtaktsdyktig, ble resten av møtet brukt til generell diskusjon omkring blant annet
 
 * aktivisering av medlemmer
 * bruken av sosiale medier og hvordan de kan effektiviseres
 * valgmateriell
 * registrering av presse.hordaland@piratpartiet.no
 
-(1t19m4s) Foreløpig tidspunkt for neste styremøte settes til 13. juli, om fjorten dager.
+(1t:19m:4s) Foreløpig tidspunkt for neste styremøte settes til 13. juli, om fjorten dager.
 
-(1t41m15s) Lydopptaket stoppes klokken 19:02:20. Det er lagret i AV-arkivet som <code>pir-av/Arkiv/2017/06/29/2017-06-29.styremøte-pir-hordaland.opus</code>.
+(1t:41m:15s) Lydopptaket stoppes klokken 19:02:20. Det er lagret i AV-arkivet som <code>pir-av/Arkiv/2017/06/29/2017-06-29.styremøte-pir-hordaland.opus</code>.
 
 [[Category:Hordaland Piratparti]]
 [[Category:Referater]]
