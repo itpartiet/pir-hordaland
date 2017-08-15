@@ -54,14 +54,68 @@ Når bankkonto kommer på plass sendes det søknad til sentralstyret om tilskudd
 
 (20m39s) Håvard: Vi bør ha en mailadresse for media. presse at hordaland?
 
-(35m9s): Det er viktig at det kommer fram hvem som har gitt donasjoner. Hvis det kommer anonyme bidrag, ''skal'' de tilbakebetales.
+(35m9s) Det er viktig at det kommer fram hvem som har gitt donasjoner. Hvis det kommer anonyme bidrag, ''skal'' de tilbakebetales. Hvis det anonyme bidraget ikke kan tilbakeføres, skal det betales til staten.
+
+(36m14s) Håvard: Partiet kan ikke motta Bitcoin med mindre det fremgår hvem pengene kommer fra, men det er veldig vanskelig å få til sporbart med Bitcoin.
+
+Ørjan: Da må vi i så fall ha en donasjonsknapp for Bitcoin der man må fylle inn tekst, email og lignende.
+
+Ståle: Det kan tenkes at vi får penger fra folk vi ikke har lyst til å få penger fra.
+
+(36m51s) Ørjan: Vi har lov til å ta betalt i Bitcoin foreksempel for medlemskontingent, det er ikke noe problem.
+
+(37m20s) Ørjan: Hvem har vi planer om å ha bankkonto hos? Hvor skal vi ha kontoen? Jeg hater DnB. Kan vi utelate DnB? De koster en formue å ha bankkonto hos.
+
+Ståle: Absolutt.
+
+Håvard: DnB er grisedyrt, det er dårlig, det er...
+
+Ståle: Helt enig.
+
+(37m41s) Øyvind: Fana Sparebank har jeg hørt mye fint om, en veldig trivelig bank.
+
+Ørjan: Fana Sparebank er faktisk veldig flinke og hyggelige. Da er man faktisk lokalt forankret. Jeg kan gå i banken og snakke med den samme personen som jeg snakket med for to år siden.
+
+Øyvind: Har de filial her i Bergen?
+
+Håvard: Ja, veldig okei.
 
 
-(1t41m15s) Lydopptaket stoppes
 
+(38m28s) Ståle: Men hvorfor ikke Sparebanken Vest?
+
+Håvard: Den er vesentlig mindre lokal. Jeg tenker at det står mellom Fana Sparebank og Sogn Sparebank.
+
+Ørjan: Jeg er ikke så glad i Sparebanken Vest nettbankmessig, informasjonen du får tilsendt derfra er ekstremt dårlig. I Fana Sparebank kan man få tilsendt for eksempel SMS ved innbetalinger.
+
+== Stemmesedler ==
+
+(41m37s) Stemmesedler er okei i følge Olav og Øyvind. Øyvind fikk mail fra Anita.Fjellheim@hfk.no 2017-06-02 13:59 der hun takker for bestillingen.
+
+== Nullregsskap og partistøtte. ==
+
+(41m46s) Det er ikke kommet svar på dette enda.
+
+== Registrering i brreg ==
+
+(42m20s) Øyvind har tilgang. Geir Martin har visstnok også tilgang. Avklares med ham senere.
+
+== Nye vedtekter ==
+
+(42m47s) Håvard: Vi må definere en person eller gruppe som får ansvar for å utforme vedtekter for styret.
+
+== Hordalandsturné ==
+
+(46m03s) Istedenfor å bruke valgbod planlegges det som tidligere nevnt å reise til utvalgte steder i Hordaland for å lage valgstand. Det må lages liste over destinasjoner og hvem som skal reise. Ståle og Øyvind har snakket om dette, og det foreslås periodekort for tog på Vossebanen til og med Myrdal, det koster 1200 kroner per billett tur/retur, da kan vi reise så mye vi vil med lokaltogene i syv dager.
+
+Foreløpige forslag til destinasjoner er Indre Arna, Voss, Norheimsund, Leirvik på Stord, Odda og Kleppestø. Så er vi selvfølgelig på Sartor Senter også. Undersøk om det er noe lignende på Åsane Senter.
 
 Registrer presse.hordaland@piratpartiet.no
 
 ørjan skriver velkomstmail, håvard leser gjennom
+
+== Møtet avsluttes ==
+
+(1t41m15s) Lydopptaket stoppes klokken 19:02:20. Det er lagret i AV-arkivet som `pir-av/Arkiv/2017/06/29/2017-06-29.styremøte-pir-hordaland.opus`.
 
 vim: set ft=mediawiki tw=9999 wrap :
